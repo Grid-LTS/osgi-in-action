@@ -1,0 +1,17 @@
+
+# build artefacts
+build
+bundles
+launcher.jar
+main.jar
+
+# cache folders
+felix-cache
+
+## OS, IDE
+**/.metadata
+.recommenders
+RemoteSystemsTempFiles/
+.idea
+**/.DS_Store
+

@@ -21,7 +21,7 @@
   <target name="compile" if="have.source">
     <mkdir dir="${build}"/>
     <mkdir dir="${dist}"/>
-    <property name="compile.level" value="1.5"/>
+    <property name="compile.level" value="11"/>
     <property name="build.cp" value=""/>
     <path id="external.classpath" path="${build.cp}">
       <fileset dir="${lib}" includes="osgi.*.jar"/>

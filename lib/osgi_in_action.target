@@ -4,7 +4,7 @@
 <target name="OSGiInAction">
 
    <targetJRE>
-      <execEnv>J2SE-1.5</execEnv>
+      <execEnv>J2SE-11</execEnv>
    </targetJRE>
 
    <location useDefault="true"/>
